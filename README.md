@@ -11,9 +11,27 @@ python+seleuim+ddddocr
 
 
 ## 如何使用？
+### 运行代码
+1.导入项目
+
+2.pip下载对应的包
+
+3.填写config.ini文件
+
+4.需要有edge浏览器，并且保证浏览器版本和WebDriver版本一致，下载WebDriver后需替换项目内的WebDriver
+
+WebDriver下载地址：
+https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/#downloads
+
+4.运行
+
+### 运行成品
+下载地址：链接：https://pan.baidu.com/s/16v-YpnK3Y1k2ylVtk_nc0Q?pwd=6eik 
+提取码：6eik
+
 1.把所有文件解压到同一个文件夹
 
-2.配置完成config.ini文件(文件内有配置说明)	
+2.填写config.ini文件(文件内有配置说明)	
 
 3.需要有edge浏览器，并且保证浏览器版本和WebDriver版本一致，下载WebDriver后需替换文件夹内的WebDriver
 
@@ -35,9 +53,6 @@ https://www.bilibili.com/video/BV1RY411L75G?spm_id_from=333.999.0.0&vd_source=17
 2.从周二开始每天发送1-2次即可，如果频率过高容易引起同学反感。
 
 3.QQ邮箱的SMTP服务每天邮件上限好像是50-100，因此如果邮箱发送失败可以替换新的邮箱
-
-
-
 
 
 

@@ -22,10 +22,12 @@ https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/#downloads
 
 4.打开mian.exe  浏览器弹出后不要动鼠标
 
-
 5.周一之后再使用！！！周一之后再使用！！！因为周一访问人数多一般网站会崩溃
 
 6.使用时如遇到问题，请看控制台输出的提示
+
+### 视频教程：
+https://www.bilibili.com/video/BV1RY411L75G?spm_id_from=333.999.0.0&vd_source=170abb81331154dc52f13bd9ecb2e363
 
 ### 建议
 1.请用于正规用途
